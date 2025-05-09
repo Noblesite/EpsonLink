@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+    <restriction
+        android:key="EpsonLinkUrl"
+        android:title="@string/EpsonLinkUrl"
+        android:restrictionType="string"
+        android:description="@string/EpsonLink_description"
+        android:defaultValue="https://Noblesite.net"/>
+    <restriction
+        android:key="EpsonPrinterModel"
+        android:title="@string/EpsonPrinterModel"
+        android:restrictionType="choice"
+        android:entries="@array/epson_printer_model_entries"
+        android:entryValues="@array/epson_printer_model_values"
+        android:description="@string/EpsonLink_description"
+        android:defaultValue="TM-m30"/>
+</restrictions>

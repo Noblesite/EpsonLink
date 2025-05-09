@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>Request Error</title>
+    <meta name="viewport" content="user-scalable=no"/>
+    <style type="text/css">
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        #error-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+
+        .error-image {
+            max-width: 220px;
+            height: auto;
+            margin: 30px auto;
+        }
+
+        h1 {
+            font-size: 2em;
+            margin: 10px 0;
+            color: #333;
+        }
+
+        .subtext {
+            font-size: 1.2em;
+            color: #444;
+            margin: 20px 0;
+        }
+
+        .retry {
+            color: #888;
+            font-size: 1em;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="error-wrapper">
+        <img src="images/error_generic.png" alt="Error icon" class="error-image" />
+    </div>
+</body>
+</html>

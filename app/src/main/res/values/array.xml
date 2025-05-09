@@ -1,0 +1,76 @@
+<resources>
+    <string-array name="epson_printer_model_entries">
+        <item>@string/printerseries_m10</item>
+        <item>@string/printerseries_m30</item>
+        <item>@string/printerseries_p20</item>
+        <item>@string/printerseries_p60</item>
+        <item>@string/printerseries_p60ii</item>
+        <item>@string/printerseries_p80</item>
+        <item>@string/printerseries_t20</item>
+        <item>@string/printerseries_t60</item>
+        <item>@string/printerseries_t70</item>
+        <item>@string/printerseries_t81</item>
+        <item>@string/printerseries_t82</item>
+        <item>@string/printerseries_t83</item>
+        <item>@string/printerseries_t83iii</item>
+        <item>@string/printerseries_t88</item>
+        <item>@string/printerseries_t90</item>
+        <item>@string/printerseries_t90kp</item>
+        <item>@string/printerseries_t100</item>
+        <item>@string/printerseries_u220</item>
+        <item>@string/printerseries_u330</item>
+        <item>@string/printerseries_l90</item>
+        <item>@string/printerseries_h6000</item>
+        <item>@string/printerseries_m30ii</item>
+        <item>@string/printerseries_ts100</item>
+        <item>@string/printerseries_m50</item>
+        <item>@string/printerseries_t88vii</item>
+        <item>@string/printerseries_l90lfc</item>
+        <item>@string/printerseries_eu_m30</item>
+        <item>@string/printerseries_l100</item>
+        <item>@string/printerseries_p20ii</item>
+        <item>@string/printerseries_p80ii</item>
+        <item>@string/printerseries_m30iii</item>
+        <item>@string/printerseries_m50ii</item>
+        <item>@string/printerseries_m55</item>
+        <item>@string/printerseries_u220ii</item>
+    </string-array>
+
+        <!-- Match these with internal values if needed -->
+    <string-array name="epson_printer_model_values">
+    <item>TM-m10</item>
+    <item>TM-m30</item>
+    <item>TM-P20</item>
+    <item>TM-P60</item>
+    <item>TM-P60II</item>
+    <item>TM-P80</item>
+    <item>TM-T20</item>
+    <item>TM-T60</item>
+    <item>TM-T70</item>
+    <item>TM-T81</item>
+    <item>TM-T82</item>
+    <item>TM-T83</item>
+    <item>TM-T83III</item>
+    <item>TM-T88</item>
+    <item>TM-T90</item>
+    <item>TM-T90KP</item>
+    <item>TM-T100</item>
+    <item>TM-U220</item>
+    <item>TM-U330</item>
+    <item>TM-L90</item>
+    <item>TM-H6000</item>
+    <item>TM-m30II</item>
+    <item>TS-100</item>
+    <item>TM-m50</item>
+    <item>TM-T88VII</item>
+    <item>TM-L90LFC</item>
+    <item>EU-m30</item>
+    <item>TM-L100</item>
+    <item>TM-P20II</item>
+    <item>TM-P80II</item>
+    <item>TM-m30III</item>
+    <item>TM-m50II</item>
+    <item>TM-m55</item>
+    <item>TM-U220II</item>
+    </string-array>
+</resources>
